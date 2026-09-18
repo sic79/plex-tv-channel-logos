@@ -1,0 +1,274 @@
+[
+  {
+    "number": 1,
+    "channel": "SVT1",
+    "logo_id": 30,
+    "file": "01-svt1.png",
+    "content_type": "image/png",
+    "bytes": 6438
+  },
+  {
+    "number": 2,
+    "channel": "SVT2 HD",
+    "logo_id": 32,
+    "file": "02-svt2-hd.png",
+    "content_type": "image/png",
+    "bytes": 7160
+  },
+  {
+    "number": 3,
+    "channel": "TV3 HD (S)",
+    "logo_id": 31,
+    "file": "03-tv3-hd-s.png",
+    "content_type": "image/png",
+    "bytes": 7354
+  },
+  {
+    "number": 4,
+    "channel": "TV4 HD",
+    "logo_id": 33,
+    "file": "04-tv4-hd.png",
+    "content_type": "image/png",
+    "bytes": 8438
+  },
+  {
+    "number": 5,
+    "channel": "Kanal 5 HD (S)",
+    "logo_id": 34,
+    "file": "05-kanal-5-hd-s.png",
+    "content_type": "image/png",
+    "bytes": 14003
+  },
+  {
+    "number": 6,
+    "channel": "TV6 HD (S)",
+    "logo_id": 35,
+    "file": "06-tv6-hd-s.png",
+    "content_type": "image/png",
+    "bytes": 13437
+  },
+  {
+    "number": 7,
+    "channel": "Sjuan HD",
+    "logo_id": 38,
+    "file": "07-sjuan-hd.png",
+    "content_type": "image/png",
+    "bytes": 8277
+  },
+  {
+    "number": 8,
+    "channel": "TV8",
+    "logo_id": 39,
+    "file": "08-tv8.png",
+    "content_type": "image/png",
+    "bytes": 11325
+  },
+  {
+    "number": 9,
+    "channel": "Kanal 9 HD",
+    "logo_id": 36,
+    "file": "09-kanal-9-hd.png",
+    "content_type": "image/png",
+    "bytes": 14168
+  },
+  {
+    "number": 10,
+    "channel": "TV10",
+    "logo_id": 37,
+    "file": "10-tv10.png",
+    "content_type": "image/png",
+    "bytes": 6101
+  },
+  {
+    "number": 11,
+    "channel": "Kanal 11 HD",
+    "logo_id": 40,
+    "file": "11-kanal-11-hd.png",
+    "content_type": "image/png",
+    "bytes": 11932
+  },
+  {
+    "number": 12,
+    "channel": "TV12",
+    "logo_id": 41,
+    "file": "12-tv12.png",
+    "content_type": "image/png",
+    "bytes": 9485
+  },
+  {
+    "number": 13,
+    "channel": "TV4 Film",
+    "logo_id": 75,
+    "file": "13-tv4-film.png",
+    "content_type": "image/png",
+    "bytes": 373339
+  },
+  {
+    "number": 14,
+    "channel": "TV4 Guld",
+    "logo_id": 76,
+    "file": "14-tv4-guld.png",
+    "content_type": "image/png",
+    "bytes": 427217
+  },
+  {
+    "number": 15,
+    "channel": "SVT24 HD",
+    "logo_id": 74,
+    "file": "15-svt24-hd.png",
+    "content_type": "image/png",
+    "bytes": 359821
+  },
+  {
+    "number": 16,
+    "channel": "Discovery Channel HD (S)",
+    "logo_id": 42,
+    "file": "16-discovery-channel-hd-s.png",
+    "content_type": "image/png",
+    "bytes": 7204
+  },
+  {
+    "number": 17,
+    "channel": "ID Investigation Discovery (S)",
+    "logo_id": 43,
+    "file": "17-id-investigation-discovery-s.png",
+    "content_type": "image/png",
+    "bytes": 7099
+  },
+  {
+    "number": 18,
+    "channel": "National Geographic HD (S/F)",
+    "logo_id": 44,
+    "file": "18-national-geographic-hd-s-f.png",
+    "content_type": "image/png",
+    "bytes": 7668
+  },
+  {
+    "number": 19,
+    "channel": "TLC Sverige HD",
+    "logo_id": 45,
+    "file": "19-tlc-sverige-hd.png",
+    "content_type": "image/png",
+    "bytes": 3507
+  },
+  {
+    "number": 20,
+    "channel": "Kunskapskanalen HD",
+    "logo_id": 46,
+    "file": "20-kunskapskanalen-hd.png",
+    "content_type": "image/png",
+    "bytes": 7438
+  },
+  {
+    "number": 21,
+    "channel": "MTV",
+    "logo_id": 47,
+    "file": "21-mtv.png",
+    "content_type": "image/png",
+    "bytes": 6969
+  },
+  {
+    "number": 22,
+    "channel": "MTV 00s",
+    "logo_id": 48,
+    "file": "22-mtv-00s.png",
+    "content_type": "image/png",
+    "bytes": 18755
+  },
+  {
+    "number": 23,
+    "channel": "Eurosport 1",
+    "logo_id": 49,
+    "file": "23-eurosport-1.png",
+    "content_type": "image/png",
+    "bytes": 4372
+  },
+  {
+    "number": 24,
+    "channel": "Eurosport 2",
+    "logo_id": 50,
+    "file": "24-eurosport-2.png",
+    "content_type": "image/png",
+    "bytes": 4670
+  },
+  {
+    "number": 25,
+    "channel": "Al Jazeera English",
+    "logo_id": 51,
+    "file": "25-al-jazeera-english.png",
+    "content_type": "image/png",
+    "bytes": 14599
+  },
+  {
+    "number": 26,
+    "channel": "CNN International",
+    "logo_id": 52,
+    "file": "26-cnn-international.png",
+    "content_type": "image/png",
+    "bytes": 9575
+  },
+  {
+    "number": 27,
+    "channel": "BBC News",
+    "logo_id": 53,
+    "file": "27-bbc-news.png",
+    "content_type": "image/png",
+    "bytes": 8332
+  },
+  {
+    "number": 28,
+    "channel": "Viaplay Sport",
+    "logo_id": 73,
+    "file": "28-viaplay-sport.png",
+    "content_type": "image/png",
+    "bytes": 16282
+  },
+  {
+    "number": 29,
+    "channel": "Viasat History",
+    "logo_id": 71,
+    "file": "29-viasat-history.svg",
+    "content_type": "image/svg+xml",
+    "bytes": 8541
+  },
+  {
+    "number": 30,
+    "channel": "Viasat Nature",
+    "logo_id": 70,
+    "file": "30-viasat-nature.svg",
+    "content_type": "image/svg+xml",
+    "bytes": 6145
+  },
+  {
+    "number": 31,
+    "channel": "Sky News",
+    "logo_id": 27,
+    "file": "31-sky-news.png",
+    "content_type": "image/png",
+    "bytes": 18560
+  },
+  {
+    "number": 32,
+    "channel": "Nickelodeon",
+    "logo_id": 65,
+    "file": "32-nickelodeon.png",
+    "content_type": "image/png",
+    "bytes": 9280
+  },
+  {
+    "number": 33,
+    "channel": "Nicktoons",
+    "logo_id": 69,
+    "file": "33-nicktoons.svg",
+    "content_type": "image/svg+xml",
+    "bytes": 9980
+  },
+  {
+    "number": 34,
+    "channel": "Nick Jr.",
+    "logo_id": 68,
+    "file": "34-nick-jr.svg",
+    "content_type": "image/svg+xml",
+    "bytes": 4090
+  }
+]
